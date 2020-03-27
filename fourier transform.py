@@ -1,7 +1,4 @@
-#program to show the filtering
-#written by Syahril Siregar
-#2017/6/27
-#Sendai
+
 
 import numpy as np
 import matplotlib.pyplot as plt
