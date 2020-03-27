@@ -1,7 +1,7 @@
 # Fast-Fourier-Transform
 Contoh penggunaan interface python untuk math FFT
 
-<p>Figure_1-1.png</p>
+<p><img src="https://github.com/wedexyz/Fast-Fourier-Transform/blob/master/Figure_1-1.png" style ="width:400px,height:400px"></img></p>
 Requeirement python 2.7
 <hr>
 import numpy ----- pip install numpy
